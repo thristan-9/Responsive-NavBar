@@ -6,5 +6,5 @@ web:
 
 mobile:
 
-![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/5a470d8f-5c28-494f-a0c0-ffeee2b696f9)
+![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/d9d5c5cd-d252-49dc-8b95-56bf85912026)
 
