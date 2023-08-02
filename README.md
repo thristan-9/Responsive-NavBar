@@ -2,7 +2,7 @@
 
 web:
 
-![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/197a1ff7-ee1c-4d2b-87b7-b9a1d90d18d4)
+![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/d545e1ee-e13c-4a00-be07-e94566ae49eb)
 
 mobile:
 
