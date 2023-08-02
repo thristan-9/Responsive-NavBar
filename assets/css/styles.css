@@ -143,8 +143,7 @@ img {
     /*For animation*/
 }
 
-
-/*=============== STYLE CSS ===============*/
+/*=============== HEADER CSS ===============*/
 .header {
     width: 100%;
     background-color: var(--body-color);
@@ -219,6 +218,7 @@ img {
 .nav__list {
     display: flex;
     justify-content: center;
+    text-align: center;
     flex-direction: column;
     row-gap: 3rem;
 }
