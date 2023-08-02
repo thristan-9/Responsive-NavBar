@@ -2,8 +2,9 @@
 
 web:
 
-![Screen Shot 2022-09-02 at 17 44 14](https://user-images.githubusercontent.com/85590315/188232979-681c6390-6795-4ab8-a509-67a7eeeba1fc.png)
+![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/197a1ff7-ee1c-4d2b-87b7-b9a1d90d18d4)
 
 mobile:
 
-![Screen Shot 2022-09-02 at 17 44 38](https://user-images.githubusercontent.com/85590315/188232992-9077f412-35c0-406e-acd6-c45604f6b9ce.png)
+![image](https://github.com/thristan-9/Responsive-navbar/assets/85590315/5a470d8f-5c28-494f-a0c0-ffeee2b696f9)
+
